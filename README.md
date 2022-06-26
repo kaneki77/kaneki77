@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kaneki77
+- 👀 I’m interested in Progaming
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+ataualmente estudando progamação nas linguagens de html,css,javascript,phyton.
+--->
